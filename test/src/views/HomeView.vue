@@ -1,7 +1,7 @@
 <template>
   <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <img alt="gif" src="https://www.galvanizeaction.org/wp-content/uploads/2022/06/Wow-gif.gif">
+    <HelloWorld msg="Home"/>
   </div>
 </template>
 
